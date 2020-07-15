@@ -1,0 +1,26 @@
+
+
+PRVI ZADATAK:
+
+1. ID locator: #piklogo
+
+2. ID locator: #searchinput; 
+   XPath locator: //input[@class="searchinput trazilicaObicna"]
+
+3. XPath loacator: //a[@href="https://www.olx.ba/nekretnine"][contains(., "NEKRETNINE")]
+
+4. XPath locator: //button[@class="btn btn-mainsearch"]
+
+5. ID locator: #loginbtn
+
+6. XPath locator: //a[@class="disableSelection btn btn-user btn-reg"]
+
+7. XPath locator: //strong[contains(., "2066")]
+   XPath locator: /html/body/div[4]/div/h1/strong[2]
+
+8. XPath locator: //a[@class="menuitem"][contains(., "Poslovi")]
+
+9. XPath locator: //a[@class="menuitem"][contains(., "Kompjuteri")]
+
+10.XPath locator: //a[@class="menuitem"][contains(., "Moj dom")]
+
